@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">まっさんのお小遣い帳</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="osaihu">あなたのお財布は</string>
+    <string name="en">円</string>
+    <string name="syouhinmei">商品：</string>
+    <string name="kingaku">金額：</string>
+    <string name="basyo">場所：</string>
+    <string name="day">日付：</string>
+    <string name="picture">写真：</string>
+    <string name="today_money">今日使ったお金は</string>
+    <string name="buy">買ったもの</string>
+    <string name="yosan">ヨサン：</string>
+    <string name="zankin">残金:</string>
+</resources>
